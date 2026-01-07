@@ -118,3 +118,6 @@ The EdTech startup wants to scale its recorded lecture offerings but lacks clari
 
 ## 🚀 Conclusion
 This Power BI dashboard converts raw EdTech data into meaningful insights that help optimise content strategy, improve accessibility, and drive scalable business growth in recorded learning platforms.
+
+### 6.	Screenshot / Demos
+Show what the dashboard looks like. ![Dashboard Preview](https://github.com/MohitMahi1/Ede-Tech-Course-Analysis-Dashboard/blob/main/Snapshot_of_Ede-Tech_analysis.png)
